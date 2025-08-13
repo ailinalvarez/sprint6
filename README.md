@@ -1,5 +1,7 @@
 # sprint6
 Learning data analysis:
-* en la carpeta notebooks se encuentra el archivo donde se analiza por completo el proyecto, con observaciones.
-* en requirements.txt las librerias utilizadas
-* en analysis.py se encuentran el código python
+This project encompasses all the skills learned from Sprints 1 to 5:
+* Python
+* Data processing
+* Exploratory analysis
+* Statistical analysis
