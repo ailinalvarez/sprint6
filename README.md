@@ -1,5 +1,5 @@
 # 🤖 Sprint 6 – Machine Learning Foundations  
-### Recruiter-Friendly README  
+
 **Author: Ailin Alvarez**
 
 ---
